@@ -1,0 +1,6 @@
+[submodule "frontend"]
+    path = frontend
+    url = https://github.com/Mojjitt0o/absensi_management_cloud.git
+[submodule "absensi_management_cloud"]
+	path = absensi_management_cloud
+	url = https://github.com/Mojjitt0o/absensi_management_cloud.git
